@@ -11,7 +11,7 @@
 ### Projects
 | Project | What it is |
 |---|---|
-| **LAREVO** | Wedding-planning agency OS — planner, vendor & family apps on one Wedding Master Record (React Native + Node.js) |
-| **MyShaadiPlanner** | Wedding planning platform (React Native + backend) |
-| **Pertingo** | Mobile & web app at BLook (React Native, TypeScript, REST APIs) |
+| **LAREVO** | Wedding-planning agency OS — planner, vendor & family apps on one Wedding Master Record (React Native + React + Node.js) |
+| **MyShaadiPlanner** | Wedding planning platform (React + backend) |
+| **Pertingo** | Mobile & web app at BLook (React , TypeScript, REST APIs) |
 | **Medical Inventory App** | React Native inventory app built at ZnSoftech |
